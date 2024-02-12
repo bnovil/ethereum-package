@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/kurtosis-tech/ethereum-package/compare/1.4.0...2.0.0) (2024-02-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* add node selectors features ([#491](https://github.com/kurtosis-tech/ethereum-package/issues/491))
+
+### Features
+
+* add node selectors features ([#491](https://github.com/kurtosis-tech/ethereum-package/issues/491)) ([316d42f](https://github.com/kurtosis-tech/ethereum-package/commit/316d42fbaeb2d7bc1d580823a6c70b1c2dfe3746))
+
 ## [1.4.0](https://github.com/kurtosis-tech/ethereum-package/compare/1.3.0...1.4.0) (2024-02-09)
 
 
